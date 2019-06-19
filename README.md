@@ -1,5 +1,5 @@
 # open-seats-checker
-Script that checks for and emails user when a seat opens up in a class at Maryland on `testudo.umd.edu`. Parses the class search results page to check for open seats.
+Script that checks for and emails user when a seat opens up in a class at Maryland on `testudo.umd.edu`. Scrapes the class search results page to check for open seats.
 
 Sender email must be a Gmail.
 
