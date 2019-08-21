@@ -8,3 +8,5 @@ In order to let our app interact with the sender's Gmail account, you must allow
 I recommend scheduling this script using crontab or launchd to have it run in the background of your system.
 
 How to allow access to less secure apps: https://support.google.com/accounts/answer/6010255?hl=en
+
+Fun fact: this script helped me get into the class that I was waiting for all summer!
